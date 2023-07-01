@@ -1,3 +1,2 @@
 My first readme Updated
-mine 
-n
+mine okeey
